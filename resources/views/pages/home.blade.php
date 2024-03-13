@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'home')
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +10,7 @@
     <title>Laravel Comics</title>
 
     @vite('resources/js/app.js')
-    
+
 </head>
 <body>
 
