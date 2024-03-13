@@ -1,0 +1,39 @@
+#visa-header{
+    height: 30px;
+    background-color: #0C7CEC;
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    border: none;
+    border-bottom: 1px solid transparent;
+    outline: none;
+    padding-right: 30px; /* spazio per l'icona */
+}
+
+input[type="text"]:focus {
+    border-bottom: 2px solid blue;
+}
+
+.search-icon {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    color: #666;
+    cursor: pointer;
+}
+
+#header-nav a{
+    padding-block: 50px;
+}
+
+#header-nav a:hover{
+    color: #0282f9;
+    border-bottom: 5px solid #0282f9;
+}
+

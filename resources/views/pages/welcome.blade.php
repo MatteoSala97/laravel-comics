@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,8 +9,6 @@
     @vite('resources/js/app.js')
 </head>
 <body>
-
-    
 
 </body>
 </html>
