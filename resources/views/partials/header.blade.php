@@ -1,13 +1,12 @@
 <header>
-
     <div id="visa-header" class="container-fluid">
         <div class="row">
-            <div class="col offset-7">
+            <div class="col-1 offset-7">
                 <p class="text-light p-1 fw-bold">
                     DC POWER VISA ®
                 </p>
             </div>
-            <div class="col">
+            <div class="col-1">
                 <p class="text-light p-1 fw-bold">
                     ADDITIONAL DC SITES
                     <i class="fa-solid fa-caret-down"></i>
