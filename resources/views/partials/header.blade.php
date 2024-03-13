@@ -3,12 +3,12 @@
     <div id="visa-header" class="container-fluid">
         <div class="row">
             <div class="col offset-7">
-                <p class="text-light p-1">
+                <p class="text-light p-1 fw-bold">
                     DC POWER VISA ®
                 </p>
             </div>
             <div class="col">
-                <p class="text-light p-1">
+                <p class="text-light p-1 fw-bold">
                     ADDITIONAL DC SITES
                     <i class="fa-solid fa-caret-down"></i>
                 </p>
@@ -25,34 +25,34 @@
       </figure>
       <ul id="header-nav" class="d-flex gap-4 list-unstyled">
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize ">Characters</a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold">Characters</a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> comics </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> comics </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> movies </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> movies </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> tv </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> tv </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> games </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> games </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> collectibles </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> collectibles </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> videos </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> videos </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> fans </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> fans </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> news </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> news </a>
         </li>
         <li>
-          <a href="" class="text-decoration-none text-dark text-capitalize"> shop </a>
+          <a href="" class="text-decoration-none text-dark text-uppercase fw-bold"> shop </a>
         </li>
         <li>
             <div class="input-container">
