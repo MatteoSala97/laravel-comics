@@ -15,10 +15,10 @@
 <body>
 
     {{-- Header --}}
-    @include('partials.header')
+    @include('partials.header');
     {{-- Main --}}
-
+    @yield('main');
     {{-- Footer --}}
-    @include('partials.footer')
+    @include('partials.footer');
 </body>
 </html>
